@@ -1,2 +1,4 @@
 Hello,
 Welcome, this is my first git file.
+
+Done with current version.
